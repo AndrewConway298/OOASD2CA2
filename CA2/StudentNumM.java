@@ -10,4 +10,14 @@ public class StudentNumM {
 		return studentNum;
 	}
 
+	public void GetStudentNum() {
+		// TODO - implement StudentNumM.GetStudentNum
+		throw new UnsupportedOperationException();
+	}
+
+	public void SetStudentNum() {
+		// TODO - implement StudentNumM.SetStudentNum
+		throw new UnsupportedOperationException();
+	}
+
 }

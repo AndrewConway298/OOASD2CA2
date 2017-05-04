@@ -13,4 +13,9 @@ public class StudentNumC {
 		return studentNums.get(index);
 	}
 
+	public void getStudentNum() {
+		// TODO - implement StudentNumC.getStudentNum
+		throw new UnsupportedOperationException();
+	}
+
 }

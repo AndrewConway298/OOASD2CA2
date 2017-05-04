@@ -21,4 +21,18 @@ public class StudentNumO {
 		System.out.println("Originator: Student number changed back to: " + studentNum);
 	}
 
+	/**
+	 * 
+	 * @param studentNum
+	 */
+	public void SetStudentNum(Memento studentNum) {
+		// TODO - implement StudentNumO.SetStudentNum
+		throw new UnsupportedOperationException();
+	}
+
+	public Memento CreateStudentNum() {
+		// TODO - implement StudentNumO.CreateStudentNum
+		throw new UnsupportedOperationException();
+	}
+
 }
