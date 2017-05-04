@@ -1,15 +1,13 @@
 public class StudentNumM {
 
-	private String studentNum;
+	private int studentNum;
 
-	public StudentNumM(String studentNum){
+	public StudentNumM(int studentNum){
 		this.studentNum = studentNum;
 	}
 
-	public String getStudentNum() {
+	public int getStudentNum() {
 		return studentNum;
-		// TODO - implement StudentNumM.GetStudentNum
-		throw new UnsupportedOperationException();
 	}
 
 }

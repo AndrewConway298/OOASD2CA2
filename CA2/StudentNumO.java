@@ -1,15 +1,13 @@
 public class StudentNumO {
 
-	private String studentNum;	
+	private int studentNum;	
 
-	public void setStudentNum(String studentNumIn) {
+	public void setStudentNum(int studentNumIn) {
 		System.out.println("Originator: Setting student number to: " + studentNumIn);
 		this.studentNum = studentNumIn;
-		// TODO - implement StudentNumO.SetStudentNum
-		throw new UnsupportedOperationException();
 	}
 
-	public String getStudentNum(){
+	public int getStudentNum(){
 		return studentNum;
 	}
 
